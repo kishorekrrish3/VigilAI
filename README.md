@@ -20,6 +20,9 @@
 
 ---
 
+> **Project status:** Experimental detection system, not a definitive violence detector. Audio/video models can miss events or flag harmless activity; use human review, privacy safeguards, and applicable legal/ethical controls before any real-world monitoring.
+
+
 # 📖 What is VigilAI?
 
 VigilAI is a **multimodal deep learning system designed for real-time violence detection** using multiple complementary signals.
